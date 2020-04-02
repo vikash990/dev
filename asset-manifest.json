@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/github.io/newTech/static/css/main.36c7c39e.chunk.css",
-    "main.js": "/github.io/newTech/static/js/main.38054a6d.chunk.js",
-    "main.js.map": "/github.io/newTech/static/js/main.38054a6d.chunk.js.map",
-    "runtime-main.js": "/github.io/newTech/static/js/runtime-main.206762ec.js",
-    "runtime-main.js.map": "/github.io/newTech/static/js/runtime-main.206762ec.js.map",
-    "static/css/2.de424728.chunk.css": "/github.io/newTech/static/css/2.de424728.chunk.css",
-    "static/js/2.8e226794.chunk.js": "/github.io/newTech/static/js/2.8e226794.chunk.js",
-    "static/js/2.8e226794.chunk.js.map": "/github.io/newTech/static/js/2.8e226794.chunk.js.map",
-    "index.html": "/github.io/newTech/index.html",
-    "precache-manifest.42bb5727c8526e02f2cabdb487e6ca71.js": "/github.io/newTech/precache-manifest.42bb5727c8526e02f2cabdb487e6ca71.js",
-    "service-worker.js": "/github.io/newTech/service-worker.js",
-    "static/css/2.de424728.chunk.css.map": "/github.io/newTech/static/css/2.de424728.chunk.css.map",
-    "static/css/main.36c7c39e.chunk.css.map": "/github.io/newTech/static/css/main.36c7c39e.chunk.css.map",
-    "static/js/2.8e226794.chunk.js.LICENSE.txt": "/github.io/newTech/static/js/2.8e226794.chunk.js.LICENSE.txt"
+    "main.css": "/newTech/static/css/main.36c7c39e.chunk.css",
+    "main.js": "/newTech/static/js/main.02e32f73.chunk.js",
+    "main.js.map": "/newTech/static/js/main.02e32f73.chunk.js.map",
+    "runtime-main.js": "/newTech/static/js/runtime-main.4a4a5dda.js",
+    "runtime-main.js.map": "/newTech/static/js/runtime-main.4a4a5dda.js.map",
+    "static/css/2.de424728.chunk.css": "/newTech/static/css/2.de424728.chunk.css",
+    "static/js/2.18a0f77f.chunk.js": "/newTech/static/js/2.18a0f77f.chunk.js",
+    "static/js/2.18a0f77f.chunk.js.map": "/newTech/static/js/2.18a0f77f.chunk.js.map",
+    "index.html": "/newTech/index.html",
+    "precache-manifest.75d32f2e20538874e42b364a406fac72.js": "/newTech/precache-manifest.75d32f2e20538874e42b364a406fac72.js",
+    "service-worker.js": "/newTech/service-worker.js",
+    "static/css/2.de424728.chunk.css.map": "/newTech/static/css/2.de424728.chunk.css.map",
+    "static/css/main.36c7c39e.chunk.css.map": "/newTech/static/css/main.36c7c39e.chunk.css.map",
+    "static/js/2.18a0f77f.chunk.js.LICENSE.txt": "/newTech/static/js/2.18a0f77f.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.206762ec.js",
+    "static/js/runtime-main.4a4a5dda.js",
     "static/css/2.de424728.chunk.css",
-    "static/js/2.8e226794.chunk.js",
+    "static/js/2.18a0f77f.chunk.js",
     "static/css/main.36c7c39e.chunk.css",
-    "static/js/main.38054a6d.chunk.js"
+    "static/js/main.02e32f73.chunk.js"
   ]
 }
